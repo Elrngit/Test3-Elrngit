@@ -13,7 +13,7 @@ return (
    
 
 <div className="App">
-
+<Testnwcnt/>
 <Routes>
 
 <Route path="/" Component={Testnwcnt}/>
